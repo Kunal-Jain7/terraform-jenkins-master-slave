@@ -1,2 +1,2 @@
-# terraform-jenkins-master-slave
-Repository for creating the Jenkins Master and slave agent using the AWS ubuntu 22.04 machine 
+# Terraform_Jenkins_Master_Slave
+Trying to Setup Terraform code for setting up Jenkins Master and Slave
